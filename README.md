@@ -1,4 +1,5 @@
 # Rocket Panda Mk. I
+# [Full write-up is on my website!](https://iamericmin.github.io/rocketpanda1.html)
 
 ## nRF52832 dev kit designed for experiments with BLE
 
